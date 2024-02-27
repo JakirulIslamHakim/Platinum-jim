@@ -1,8 +1,11 @@
+import Featured from "../../../Components/Featured/Featured";
+import Hero from "../../../Components/Hero/Hero";
 
 const Home = () => {
     return (
         <div>
-            This is Home page
+            <Hero/>
+            <Featured/>
         </div>
     );
 };
