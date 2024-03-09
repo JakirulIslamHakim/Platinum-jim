@@ -18,7 +18,7 @@ const Hero = () => {
             <p className="mb-5 text-xl font-semibold">
               Make you harder, better, faster and stronger !
             </p>
-            <button className="btn btn-outline hover:bg-red-500 hover:text-white rounded-full text-white border-2 border-red-500 mt-10">
+            <button className="btn btn-outline outline outline-red-500 hover:bg-red-500 hover:text-white rounded-full text-white border-2 border-red-500 mt-10">
               Join now
             </button>
           </div>
