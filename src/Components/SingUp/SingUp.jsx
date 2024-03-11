@@ -1,12 +1,11 @@
 import Lottie from "lottie-react";
-import loginImg from "../../assets/Lottie Json/Login.json";
+import RegisterImg from "../../assets/Lottie Json/Register.json";
 import { useForm } from "react-hook-form";
 import { Link } from "react-router-dom";
 import { IoIosEye, IoIosEyeOff } from "react-icons/io";
 import { useState } from "react";
-import { FaFacebook, FaGoogle } from "react-icons/fa";
 
-const Login = () => {
+const SingUp = () => {
   const [showPassword, setShowPassword] = useState(false);
   const {
     register,
@@ -17,7 +16,23 @@ const Login = () => {
   } = useForm();
 
   const onSubmit = (data) => {
-    console.log(data);
+    let userInfo = { ...data };
+    userInfo.role = "member";
+    console.log(userInfo);
+  };
+
+  const validateImage = (file) => {
+    if (!file || !file[0]) return "Image is required";
+    const allowedTypes = ["image/jpeg", "image/png"];
+    const maxSize = 1024 * 1024 * 2; // 2MB
+    const selectedFile = file[0];
+    if (!allowedTypes.includes(selectedFile.type)) {
+      return "Only JPG and PNG files are allowed";
+    }
+    if (selectedFile.size > maxSize) {
+      return "Image size exceeds 2MB limit";
+    }
+    return true;
   };
 
   return (
@@ -26,8 +41,8 @@ const Login = () => {
         {/* lottie img */}
         <div className="text-center lg:text-left md:w-1/2 ">
           <Lottie
-            animationData={loginImg}
-            loop={true}
+            animationData={RegisterImg}
+            loop={false}
             className="w-3/4 mx-auto hidden md:block"
           />
         </div>
@@ -35,9 +50,24 @@ const Login = () => {
         <div className="card shrink-0 w-full md:w-1/2 md:max-w-sm shadow-2xl bg-base-100 h-full">
           <form onSubmit={handleSubmit(onSubmit)} className="card-body">
             <h2 className="text-2xl md:text-3xl font-bold text-center">
-              Sing In
+              Sing up
             </h2>
-
+            <div className="form-control">
+              <label className="label">
+                <span className="label-text">Name</span>
+              </label>
+              <input
+                type="text"
+                placeholder="Name"
+                className="input input-bordered"
+                {...register("name", { required: "Name is required" })}
+              />
+              {errors.name && (
+                <span className="text-red-500 text-sm md:text-base">
+                  {errors.name.message}
+                </span>
+              )}
+            </div>
             <div className="form-control">
               <label className="label">
                 <span className="label-text">Email</span>
@@ -48,11 +78,33 @@ const Login = () => {
                 className="input input-bordered"
                 {...register("email", {
                   required: "Email is required",
+                  pattern: {
+                    value: /^[^\s@]+@[^\s@]+\.[^\s@]+$/,
+                    message: "Invalid email address",
+                  },
                 })}
               />
               {errors.email && (
                 <span className="text-red-500 text-sm md:text-base">
                   {errors.email.message}
+                </span>
+              )}
+            </div>
+            <div className="form-control">
+              <label className="label">
+                <span className="label-text">Image</span>
+              </label>
+              <input
+                type="file"
+                className="file-input input-bordered file-input-error file-input-sm md:file-input-md"
+                {...register("image", {
+                  required: "Image is required",
+                  validate: validateImage,
+                })}
+              />
+              {errors.image && (
+                <span className="text-red-500 text-sm md:text-base">
+                  {errors.image.message}
                 </span>
               )}
             </div>
@@ -67,9 +119,10 @@ const Login = () => {
                   className="input input-bordered w-full"
                   {...register("password", {
                     required: "Password is required",
-                    minLength: {
-                      value: 8,
-                      message: "Password must be 8 characters",
+                    pattern: {
+                      value: /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).{8,}$/,
+                      message:
+                        "Password must contain at least 8 characters, including uppercase, lowercase, and numbers",
                     },
                   })}
                 />
@@ -90,25 +143,18 @@ const Login = () => {
             <div className="form-control mt-6">
               <button
                 type="submit"
-                className="btn btn-primary bg-red-600 text-xl hover:bg-black hover:tex"
+                className="btn btn-primary mb-2 bg-red-600 text-xl hover:bg-black hover:tex"
               >
-               Sing In
+                Sing Up
               </button>
             </div>
-            <div className="text-center mt-3">
-            <p>Or sign in with:</p>
-            <div className="flex justify-center mt-2">
-              <FaGoogle className="text-3xl text-red-500 cursor-pointer mx-2" /> 
-              <FaFacebook className="text-3xl text-blue-500 cursor-pointer mx-2" /> 
-            </div>
-          </div>
             <p>
-              Don&apos;t have an account ? please{" "}
+              Already Have an account ? please{" "}
               <Link
                 className="text-blue-600 font-bold text-md underline"
-                to={"/singUp"}
+                to={"/login"}
               >
-                Register
+                Login
               </Link>
             </p>
           </form>
@@ -118,4 +164,4 @@ const Login = () => {
   );
 };
 
-export default Login;
+export default SingUp;
