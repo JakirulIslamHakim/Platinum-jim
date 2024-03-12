@@ -57,7 +57,7 @@ const Navbar = () => {
                 {navLinks}
               </ul>
             </div>
-            <div className="px-2 mx-2  w-20 lg:w-24 ">
+            <div className="px-2 mx-2  w-16 lg:w-20 ">
               <img
                 className="w-full rounded-full lg:ml-6"
                 src="https://i.ibb.co/GJP5nHh/Jim-Logo2-2.png"

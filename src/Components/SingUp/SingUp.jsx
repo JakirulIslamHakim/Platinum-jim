@@ -52,6 +52,7 @@ const SingUp = () => {
             <h2 className="text-2xl md:text-3xl font-bold text-center">
               Sing up
             </h2>
+            {/* name input */}
             <div className="form-control">
               <label className="label">
                 <span className="label-text">Name</span>
@@ -68,6 +69,7 @@ const SingUp = () => {
                 </span>
               )}
             </div>
+            {/* email input */}
             <div className="form-control">
               <label className="label">
                 <span className="label-text">Email</span>
@@ -90,6 +92,7 @@ const SingUp = () => {
                 </span>
               )}
             </div>
+            {/* image input */}
             <div className="form-control">
               <label className="label">
                 <span className="label-text">Image</span>
@@ -108,6 +111,7 @@ const SingUp = () => {
                 </span>
               )}
             </div>
+            {/* password input */}
             <div className="form-control ">
               <label className="label">
                 <span className="label-text">Password</span>
@@ -139,7 +143,7 @@ const SingUp = () => {
                 </span>
               )}
             </div>
-
+            {/* btn submit */}
             <div className="form-control mt-6">
               <button
                 type="submit"
@@ -148,6 +152,7 @@ const SingUp = () => {
                 Sing Up
               </button>
             </div>
+            {/* redirect sing in page */}
             <p>
               Already Have an account ? please{" "}
               <Link

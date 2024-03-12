@@ -27,7 +27,7 @@ const Login = () => {
         <div className="text-center lg:text-left md:w-1/2 ">
           <Lottie
             animationData={loginImg}
-            loop={true}
+            loop={false}
             className="w-3/4 mx-auto hidden md:block"
           />
         </div>
@@ -37,7 +37,7 @@ const Login = () => {
             <h2 className="text-2xl md:text-3xl font-bold text-center">
               Sing In
             </h2>
-
+            {/* email input */}
             <div className="form-control">
               <label className="label">
                 <span className="label-text">Email</span>
@@ -56,6 +56,7 @@ const Login = () => {
                 </span>
               )}
             </div>
+            {/* password input */}
             <div className="form-control ">
               <label className="label">
                 <span className="label-text">Password</span>
@@ -86,22 +87,24 @@ const Login = () => {
                 </span>
               )}
             </div>
-
+            {/* btn submit */}
             <div className="form-control mt-6">
               <button
                 type="submit"
-                className="btn btn-primary bg-red-600 text-xl hover:bg-black hover:tex"
+                className="btn btn-primary bg-red-600 text-xl hover:bg-black"
               >
-               Sing In
+                Sing In
               </button>
             </div>
+            {/* sing in with fb and google */}
             <div className="text-center mt-3">
-            <p>Or sign in with:</p>
-            <div className="flex justify-center mt-2">
-              <FaGoogle className="text-3xl text-red-500 cursor-pointer mx-2" /> 
-              <FaFacebook className="text-3xl text-blue-500 cursor-pointer mx-2" /> 
+              <p>Or sign in with:</p>
+              <div className="flex justify-center mt-2">
+                <FaGoogle className="text-3xl text-red-500 cursor-pointer mx-2" />
+                <FaFacebook className="text-3xl text-blue-500 cursor-pointer mx-2" />
+              </div>
             </div>
-          </div>
+            {/* redirect sing up page */}
             <p>
               Don&apos;t have an account ? please{" "}
               <Link
