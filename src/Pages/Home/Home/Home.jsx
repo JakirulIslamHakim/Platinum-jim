@@ -1,5 +1,6 @@
 import About from "../../../Components/About/About";
 import Featured from "../../../Components/Featured/Featured";
+import FeaturedClass from "../../../Components/FeaturedClass/FeaturedClass";
 import Hero from "../../../Components/Hero/Hero";
 
 const Home = () => {
@@ -8,6 +9,7 @@ const Home = () => {
       <Hero/>
       <Featured/>
       <About/>
+      <FeaturedClass/>
     </div>
   );
 };

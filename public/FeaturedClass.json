@@ -1,0 +1,112 @@
+ [
+      {
+        "id": 1,
+        "title": "Yoga for Beginners",
+        "description": "Start your journey to wellness with gentle yoga poses and breathing exercises.",
+        "instructor": "John Doe",
+        "duration": "1 hour",
+        "image": "https://www.everydayyoga.com/cdn/shop/articles/yoga_1024x1024.jpg?v=1703853908",
+        "enrolled": 35
+      },
+      {
+        "id": 2,
+        "title": "HIIT Training",
+        "description": "Get your heart pumping with high-intensity interval training for maximum calorie burn.",
+        "instructor": "Jane Smith",
+        "duration": "45 minutes",
+        "image": "https://images.squarespace-cdn.com/content/v1/5708cb0a40261d28460405dd/1531865694416-MMA9B6ZPYNMOJ7HGOJDT/HIIT.jpg",
+        "enrolled": 20
+      },
+      {
+        "id": 3,
+        "title": "Pilates Fusion",
+        "description": "Strengthen your core and improve flexibility with a fusion of Pilates and barre exercises.",
+        "instructor": "Sarah Johnson",
+        "duration": "50 minutes",
+        "image": "https://assets-global.website-files.com/6474525654e763b2569e6b78/6541bc6dc2cdfb8dc7f64b89_64a4feaaba4b95d0185337ef_foundation-banner-image2.webp",
+        "enrolled": 28
+      },
+      {
+        "id": 4,
+        "title": "CrossFit Challenge",
+        "description": "Join the CrossFit community and push your limits with a variety of functional movements.",
+        "instructor": "Mike Williams",
+        "duration": "1 hour",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXkJgoYjxU7Ec6HoXuhmdE9-mtNMCqWGSMQ&usqp=CAU",
+        "enrolled": 15
+      },
+      {
+        "id": 5,
+        "title": "Zumba Dance Party",
+        "description": "Dance your way to fitness with Latin-inspired music and energetic dance routines.",
+        "instructor": "Emily Davis",
+        "duration": "55 minutes",
+        "image": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+        "enrolled": 40
+      },
+      {
+        "id": 6,
+        "title": "Strength Training 101",
+        "description": "Build muscle and increase endurance with a beginner-friendly strength training class.",
+        "instructor": "Michael Brown",
+        "duration": "1 hour",
+        "image": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+        "enrolled": 25
+      },
+      {
+        "id": 7,
+        "title": "Pilates Mat Workout",
+        "description": "Focus on core strength and flexibility with a mat-based Pilates session.",
+        "instructor": "Jessica Wilson",
+        "duration": "45 minutes",
+        "image": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+        "enrolled": 18
+      },
+      {
+        "id": 8,
+        "title": "Circuit Training Bootcamp",
+        "description": "Challenge yourself with a full-body circuit workout designed to torch calories and improve endurance.",
+        "instructor": "David Garcia",
+        "duration": "1 hour",
+        "image": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+        "enrolled": 30
+      },
+      {
+        "id": 9,
+        "title": "Indoor Cycling Spin Class",
+        "description": "Pedal your way to fitness with a high-energy indoor cycling class set to motivating music.",
+        "instructor": "Amanda Lee",
+        "duration": "50 minutes",
+        "image": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+        "enrolled": 22
+      },
+      {
+        "id": 10,
+        "title": "Functional Fitness Foundations",
+        "description": "Learn fundamental movements and techniques for functional fitness training.",
+        "instructor": "Ryan Jackson",
+        "duration": "1 hour",
+        "image": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+        "enrolled": 16
+      },
+      {
+        "id": 11,
+        "title": "Barre Sculpt",
+        "description": "Sculpt and tone your body with a ballet-inspired barre workout focused on strength and balance.",
+        "instructor": "Sophia Martinez",
+        "duration": "55 minutes",
+        "image": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+        "enrolled": 24
+      },
+      {
+        "id": 12,
+        "title": "Mindfulness Meditation",
+        "description": "Find inner peace and reduce stress with guided meditation and relaxation techniques.",
+        "instructor": "Alex Johnson",
+        "duration": "30 minutes",
+        "image": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+        "enrolled": 12
+      }
+    ]
+  
+  

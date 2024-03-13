@@ -1,4 +1,3 @@
-// import BackgroundSlider from "react-background-slider";
 import Lottie from "lottie-react";
 import errorAnimation from "../../assets/Lottie Json/Error_Animation (2).json";
 import { Link } from "react-router-dom";
