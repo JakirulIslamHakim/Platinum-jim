@@ -7,7 +7,7 @@ const FeaturedClassCard = ({ featuredClass }) => {
       <img
         src={image}
         alt="Featured Classes Image"
-        className="w-full h-64 object-cover"
+        className="w-full h-64 object-cover border-b-2 border-red-500"
       />
       <div className="p-4">
         <h3 className="text-xl font-semibold mb-2">{title} </h3>

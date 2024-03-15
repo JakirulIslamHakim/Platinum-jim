@@ -25,7 +25,7 @@ const Navbar = () => {
   );
 
   return (
-    <div className="bg-black bg-opacity-25 absolute left-0 right-0">
+    <div className="bg-black bg-opacity-25 absolute left-0 right-0 z-50">
       <div className="max-w-7xl mx-auto">
         <nav className="navbar">
           <div className="navbar-start ">

@@ -1,58 +1,31 @@
-import React, { useRef, useState } from 'react';
-// Import Swiper React components
-import { Swiper, SwiperSlide } from 'swiper/react';
-
-// Import Swiper styles
-import 'swiper/css';
-import 'swiper/css/pagination';
-import 'swiper/css/navigation';
-
-// import './styles.css';
-
-// import required modules
-import { Autoplay, Pagination, Navigation } from 'swiper/modules';
-
-export default function App() {
+const Hero = () => {
   return (
-    <>
-      <Swiper
-        spaceBetween={0}
-        centeredSlides={true}
-        autoplay={{
-          delay: 2500,
-          disableOnInteraction: false,
+    <div>
+      <div
+        className="hero  min-h-screen "
+        style={{
+          backgroundImage:
+            "url(https://i.ibb.co/KK1T1fC/anastase-maragos-7k-Ep-UPB8v-Nk-unsplash.jpg)",
+          // backgroundSize: "cover",
         }}
-        // pagination={{
-        //   clickable: true,
-        // }}
-        // navigation={true}
-        modules={[Autoplay,  Navigation]}
-        className="mySwiper"
       >
-        <SwiperSlide>
-          <img className='h-screen w-full' src="https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg" alt="" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img className='h-screen w-full' src="https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg" alt="" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img className='h-screen w-full' src="https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg" alt="" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img className='h-screen w-full' src="https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg" alt="" />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img className='h-screen w-full' src="https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg" alt="" />
-        </SwiperSlide>
-        <SwiperSlide>Slide 2</SwiperSlide>
-        <SwiperSlide>Slide 3</SwiperSlide>
-        <SwiperSlide>Slide 4</SwiperSlide>
-        <SwiperSlide>Slide 5</SwiperSlide>
-        <SwiperSlide>Slide 6</SwiperSlide>
-        <SwiperSlide>Slide 7</SwiperSlide>
-        <SwiperSlide>Slide 8</SwiperSlide>
-        <SwiperSlide>Slide 9</SwiperSlide>
-      </Swiper>
-    </>
+        <div className="hero-overlay bg-opacity-70"></div>
+        <div className="hero-content text-center text-neutral-content">
+          <div className="max-w-md">
+            <h1 className="mb-5 text-3xl md:text-5xl font-bold uppercase">
+              Platinum Fitness{" "}
+            </h1>
+            <p className="mb-5 text-xl font-semibold">
+              Make you harder, better, faster and stronger !
+            </p>
+            <button className="btn btn-outline outline outline-red-500 hover:bg-red-500 hover:text-white rounded-full text-white border-2 border-red-500 mt-10">
+              Join now
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
   );
-}
+};
+
+export default Hero;
