@@ -3,7 +3,7 @@ const FeaturedClassCard = ({ featuredClass }) => {
     featuredClass;
 
   return (
-    <div className="bg-white shadow-lg rounded-lg overflow-hidden">
+    <div className="bg-white shadow-lg rounded-lg overflow-hidden border-2 border-red-400">
       <img
         src={image}
         alt="Featured Classes Image"

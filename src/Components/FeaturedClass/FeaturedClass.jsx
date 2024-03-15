@@ -22,7 +22,7 @@ const FeaturedClass = () => {
   };
 
   return (
-    <div className="container mx-auto py-12 border-2 px-2">
+    <div className="container mx-auto py-4 md:py-12 px-2">
       <SectionTitle title={"Featured Classes"} />
       <div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 ">
@@ -39,7 +39,7 @@ const FeaturedClass = () => {
               className=" bg-red-500 text-white px-4 py-2 rounded-full hover:bg-slate-500"
               onClick={handleSeeMore}
             >
-              See more
+              See more..
             </button>
           ) : (
             <button

@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Walker",
+      "title": "Marketing Manager",
+      "photo": "https://i.ibb.co/F5jG1Sj/IMG-20220217-230939.jpg",   
+      "quote": "Since using Platinum Fitness' trackers, I've gained so much muscle definition! Their workout plans and progress tracking are fantastic."
+    },
+    {
+      "id": 2,
+      "name": "Ben Johnson", 
+      "title": "Personal Trainer",
+      "photo": "https://i.ibb.co/F5jG1Sj/IMG-20220217-230939.jpg",   
+      "bio": "Ben is a certified personal trainer who uses Platinum Fitness trackers with all his clients. He loves the data-driven approach to fitness it provides.",
+      "quote": "Platinum Fitness trackers are a game-changer for trainers! They allow me to monitor my client's progress in real-time and adjust their workouts accordingly."
+    },
+    {
+      "id": 3,
+      "name": "Charlie Miller",
+      "title": "Student",
+      "photo": "https://i.ibb.co/hmGjdtS/user.png",   
+      "quote": "As a busy student, Platinum Fitness' trackers help me stay on top of my fitness goals. The activity reminders and calorie tracking features are super helpful."
+    },
+    {
+      "id": 4,
+      "name": "Diana Rodriguez",
+      "title": "Yoga Instructor",
+      "photo": "https://i.ibb.co/j8gYKxc/user.png",   
+      "quote": "Platinum Fitness trackers are perfect for yogis! They help me track my heart rate and ensure I'm getting the most out of my practice."
+    },
+    {
+      "id": 5,
+      "name": "Evan Lee",
+      "title": "Software Developer",
+      "photo": "https://i.ibb.co/hmGjdtS/user.png",   
+      "bio": "Evan is a fitness enthusiast who uses Platinum Fitness trackers to optimize his workouts. He loves the wide range of features and data analysis tools.",
+      "quote": "As a data-driven person, I love Platinum Fitness trackers! The detailed workout reports and sleep tracking features are amazing."
+    },
+    {
+      "id": 6,
+      "name": "Fiona Garcia",
+      "title": "Homemaker",
+      "photo": "https://i.ibb.co/j8gYKxc/user.png",   
+      "quote": "Platinum Fitness trackers have helped me get back into shape after having kids. The customizable workout plans and motivational badges keep me going!"
+    },
+    {
+      "id": 7,
+      "name": "Greg Williams",
+      "title": "Entrepreneur",
+      "photo": "https://i.ibb.co/hmGjdtS/user.png",   
+      "quote": "With Platinum Fitness trackers, I've finally found a way to make fitness fun and engaging! The challenges and community features are a great way to stay motivated."
+    },
+    {
+      "id": 8,
+      "name": "Holly Thomas",
+      "title": "Graphic Designer",
+      "photo": "https://i.ibb.co/hmGjdtS/user.png",   
+      "bio": "Holly uses Platinum Fitness trackers to improve her overall health and well-being. She loves the stress tracking features and guided meditations.",
+      "quote": "Platinum Fitness trackers are more than just fitness trackers! They help me manage stress and improve my overall well-being."
+    },
+    {
+      "id": 9,
+      "name": "Isaac Moore",
+      "title": "Retired Teacher",
+      "photo": "https://i.ibb.co/hmGjdtS/user.png",   
+      "quote": "At my age, staying active is key. Platinum Fitness trackers help me monitor my heart health and ensure I'm exercising safely."
+    },
+    {
+      "id": 10,
+      "name": "Jessica Jones",
+      "title": "Nurse",
+      "photo": "https://i.ibb.co/hmGjdtS/user.png",   
+      "quote": "Platinum Fitness trackers are a perfect fit for my busy nurse schedule. The quick workouts and sleep monitoring features help me stay energized throughout the day."
+    }
+  ]
+  

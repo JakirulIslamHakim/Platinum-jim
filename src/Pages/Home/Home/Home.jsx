@@ -2,6 +2,7 @@ import About from "../../../Components/About/About";
 import Featured from "../../../Components/Featured/Featured";
 import FeaturedClass from "../../../Components/FeaturedClass/FeaturedClass";
 import Hero from "../../../Components/Hero/Hero";
+import Testimonials from "../../../Components/Testimonials/Testimonials";
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
       <Featured/>
       <About/>
       <FeaturedClass/>
+      <Testimonials/>
     </div>
   );
 };
