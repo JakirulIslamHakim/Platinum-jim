@@ -18,7 +18,7 @@ const Testimonials = () => {
     <div className="container mx-auto py-4 md:py-12 px-2">
       <SectionTitle title={"Testimonials"} />
       <div className="flex  gap-4 overflow-hidden">
-        <Marquee speed={40}>
+        <Marquee pauseOnClick ={true} speed={40}>
           {testimonialsData.map((testimonial) => (
             <TestimonialCard key={testimonial.id} testimonial={testimonial} />
           ))}
