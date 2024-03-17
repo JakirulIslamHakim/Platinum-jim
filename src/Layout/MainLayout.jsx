@@ -20,12 +20,14 @@ const MainLayout = () => {
         </Link>
       </div>
       {/* SCROOL UP BUTTON */}
-      <ScrollToTop className="z-50" showUnder={500} duration={2000}>
-        <Lottie
-          animationData={upArrow}
-          className="w-[90px] inline-block z-40"
-        />
-      </ScrollToTop>
+      <div className="fixed z-50 ">
+        <ScrollToTop className="z-50" showUnder={500} duration={2000}>
+          <Lottie
+            animationData={upArrow}
+            className="w-[80px] inline-block z-40"
+          />
+        </ScrollToTop>
+      </div>
       <Outlet />
       <Footer />
     </div>
