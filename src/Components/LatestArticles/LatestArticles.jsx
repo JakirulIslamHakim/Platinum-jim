@@ -19,10 +19,10 @@ const LatestArticles = () => {
           <div key={article.id} className="bg-white rounded-lg shadow-md p-4 border-t">
             <h3 className="text-xl font-semibold mb-2">{article.title}</h3>
             <p className="text-gray-600 mb-4">{article.summary}</p>
-            <p className="text-gray-500">Published on {article.date}</p>
             <Link to={article.link} className="text-blue-500 hover:underline">
               Read more
             </Link>
+            <p className="text-gray-500">Published on {article.date}</p>
           </div>
         ))}
       </div>

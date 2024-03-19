@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Jakrirul Islam Hakim",
+      "position": "Fitness Coach",
+      "description": "Certified Fitness Coach with over 5 years of experience in strength training and conditioning.",
+      "imageUrl": "https://i.ibb.co/F5jG1Sj/IMG-20220217-230939.jpg",
+      "socialLinks": [
+        { "url": "https://www.linkedin.com/in/jakirulislamhakim/", "icon": "fab fa-linkedin" },
+        { "url": "https://m.facebook.com/jakirulIslamHakim1", "icon": "fab fa-instagram" }
+      ]
+    },
+    {
+      "name": "Jane Smith",
+      "position": "Nutritionist",
+      "description": "Registered dietitian specializing in sports nutrition and meal planning for athletes.",
+      "imageUrl": "https://i.ibb.co/hmGjdtS/user.png",
+      "socialLinks": [
+        { "url": "https://www.linkedin.com/janesmith", "icon": "fab fa-linkedin" },
+        { "url": "https://www.instagram.com/janesmith", "icon": "fab fa-instagram" }
+      ]
+    },
+    {
+      "name": "Emily Johnson",
+      "position": "Yoga Instructor",
+      "description": "Certified yoga instructor with a focus on Vinyasa and Hatha yoga styles. Dedicated to helping clients achieve balance and mindfulness.",
+      "imageUrl": "https://i.ibb.co/hmGjdtS/user.png",
+      "socialLinks": [
+        { "url": "https://www.linkedin.com/emilyjohnson", "icon": "fab fa-linkedin" },
+        { "url": "https://www.instagram.com/emilyjohnson", "icon": "fab fa-instagram" }
+      ]
+    },
+    {
+      "name": "Michael Williams",
+      "position": "Physical Therapist",
+      "description": "Licensed physical therapist specializing in sports rehabilitation and injury prevention. Committed to helping athletes recover and reach their full potential.",
+      "imageUrl": "https://i.ibb.co/j8gYKxc/user.png",
+      "socialLinks": [
+        { "url": "https://www.linkedin.com/michaelwilliams", "icon": "fab fa-linkedin" },
+        { "url": "https://www.instagram.com/michaelwilliams", "icon": "fab fa-instagram" }
+      ]
+    },
+    {
+      "name": "Sophia Brown",
+      "position": "Pilates Instructor",
+      "description": "Experienced Pilates instructor with a focus on core strength and flexibility. Passionate about helping clients improve posture and achieve overall wellness.",
+      "imageUrl": "https://i.ibb.co/j8gYKxc/user.png",
+      "socialLinks": [
+        { "url": "https://www.linkedin.com/sophiabrown", "icon": "fab fa-linkedin" },
+        { "url": "https://www.instagram.com/sophiabrown", "icon": "fab fa-instagram" }
+      ]
+    },
+    {
+      "name": "David Martinez",
+      "position": "Fitness Coach",
+      "description": "Certified fitness coach with expertise in HIIT, strength training, and functional fitness. Committed to empowering clients to reach their fitness goals and lead a healthy lifestyle.",
+      "imageUrl": "https://i.ibb.co/j8gYKxc/user.png",
+      "socialLinks": [
+        { "url": "https://www.linkedin.com/davidmartinez", "icon": "fab fa-linkedin" },
+        { "url": "https://www.instagram.com/davidmartinez", "icon": "fab fa-instagram" }
+      ]
+    }
+  ]
+  
