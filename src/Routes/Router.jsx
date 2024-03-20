@@ -6,6 +6,7 @@ import Error from "../Pages/Error/Error";
 import Login from "../Components/Login/Login";
 import Extra from "../Components/Extra/Extra";
 import SingUp from "../Components/SingUp/SingUp";
+import Gallery from "../Pages/Gallery/Gallery";
 
 export const router = createBrowserRouter([
   {
@@ -20,6 +21,10 @@ export const router = createBrowserRouter([
       {
         path: "/classes",
         element: <Classes />,
+      },
+      {
+        path: "/gallery",
+        element: <Gallery />,
       },
     ],
   },

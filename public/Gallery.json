@@ -1,0 +1,603 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Morning Jog in the Park",
+    "description": "Enjoying a refreshing morning jog in the serene surroundings of the park."
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Yoga by the Beach",
+    "description": "Practicing yoga poses and meditation by the tranquil shores of the beach."
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "CrossFit Training Session",
+    "description": "Engaging in an intense CrossFit training session, pushing limits and achieving fitness goals."
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Cycling Adventure",
+    "description": "Exploring scenic routes and enjoying the thrill of cycling through picturesque landscapes."
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Healthy Cooking Workshop",
+    "description": "Learning to prepare nutritious and delicious meals in a hands-on cooking workshop."
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Group Fitness Class",
+    "description": "Participating in a dynamic group fitness class, fostering motivation and camaraderie."
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Mindfulness Retreat",
+    "description": "Embarking on a journey of self-discovery and relaxation at a tranquil mindfulness retreat."
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Outdoor Bootcamp",
+    "description": "Sweating it out in an outdoor bootcamp session, challenging both body and mind."
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Healthy Lifestyle Workshop",
+    "description": "Attending a workshop focused on holistic health and embracing a balanced lifestyle."
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Mountain Hiking Expedition",
+    "description": "Conquering challenging trails and reaching new heights on an exhilarating mountain hiking expedition."
+  },
+
+  {
+    "id": 11,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Healthy Smoothie Making",
+    "description": "Blending fresh fruits and vegetables to create delicious and nutritious smoothies."
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Meditation in Nature",
+    "description": "Finding inner peace and tranquility through meditation amidst the beauty of nature."
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Group Cycling Class",
+    "description": "Pedaling together in a group cycling class, enjoying a fun and challenging workout."
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Strength Training Session",
+    "description": "Building muscle strength and endurance through focused strength training exercises."
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Pilates Workout",
+    "description": "Improving flexibility and core strength with a dynamic Pilates workout session."
+  },
+  {
+    "id": 16,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Healthy Cooking Class",
+    "description": "Learning to prepare nutritious meals with fresh ingredients in a hands-on cooking class."
+  },
+  {
+    "id": 17,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Outdoor Yoga Session",
+    "description": "Practicing yoga poses and mindfulness outdoors, connecting with nature and self."
+  },
+  {
+    "id": 18,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Zumba Dance Party",
+    "description": "Shaking off stress and calories in a high-energy Zumba dance fitness class."
+  },
+  {
+    "id": 19,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Sunrise Jogging",
+    "description": "Starting the day on a refreshing note with a morning jog as the sun rises."
+  },
+  {
+    "id": 20,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Hiking Adventure",
+    "description": "Exploring scenic trails and enjoying breathtaking views on an invigorating hiking adventure."
+  },
+  {
+    "id": 21,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Boxing Fitness Class",
+    "description": "Punching away stress and calories in an intense boxing fitness class."
+  },
+  {
+    "id": 22,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Mindful Walking",
+    "description": "Practicing mindfulness while taking a leisurely walk, focusing on each step and breath."
+  },
+  {
+    "id": 23,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Aquatic Fitness",
+    "description": "Engaging in low-impact aquatic exercises for a refreshing and effective workout."
+  },
+  {
+    "id": 24,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Healthy Meal Prep",
+    "description": "Preparing nutritious meals in advance for convenience and maintaining a healthy diet."
+  },
+  {
+    "id": 25,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Barre Fitness Class",
+    "description": "Toning and sculpting muscles with ballet-inspired exercises in a barre fitness class."
+  },
+  {
+    "id": 26,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Outdoor Circuit Training",
+    "description": "Completing a circuit of strength and cardio exercises outdoors for a full-body workout."
+  },
+  {
+    "id": 27,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Mental Wellness Workshop",
+    "description": "Learning strategies for improving mental well-being and managing stress in a workshop setting."
+  },
+  {
+    "id": 28,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Trail Running Adventure",
+    "description": "Exploring rugged trails and challenging terrain on an adventurous trail running excursion."
+  },
+  {
+    "id": 29,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Strength and Conditioning",
+    "description": "Improving strength, power, and agility through structured strength and conditioning workouts."
+  },
+  {
+    "id": 30,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Tai Chi Practice",
+    "description": "Cultivating balance, flexibility, and inner peace through the gentle movements of Tai Chi."
+  },
+  {
+    "id": 31,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Outdoor Yoga Retreat",
+    "description": "Immersing in yoga practice amidst the serene beauty of nature on a rejuvenating outdoor retreat."
+  },
+  {
+    "id": 32,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Functional Training",
+    "description": "Engaging in functional movements and exercises to improve overall strength, mobility, and flexibility."
+  },
+  {
+    "id": 33,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Meditative Forest Walk",
+    "description": "Finding solace and tranquility amidst the lush greenery of the forest with a meditative walk."
+  },
+  {
+    "id": 34,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Couples Fitness Session",
+    "description": "Bonding and supporting each other in a couples fitness session, fostering teamwork and connection."
+  },
+  {
+    "id": 35,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Healthy Cooking Demonstration",
+    "description": "Learning cooking techniques and healthy recipes from a culinary expert in a live cooking demonstration."
+  },
+  {
+    "id": 36,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Sunset Beach Run",
+    "description": "Enjoying a refreshing run along the sandy shores as the sun sets, providing a breathtaking backdrop."
+  },
+  {
+    "id": 37,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Group Fitness Challenge",
+    "description": "Taking on fitness challenges together as a group, motivating and inspiring each other to push limits."
+  },
+  {
+    "id": 38,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Paddleboarding Adventure",
+    "description": "Exploring calm waters and scenic landscapes on a paddleboarding adventure, combining fitness and relaxation."
+  },
+  {
+    "id": 39,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Healthy Picnic in the Park",
+    "description": "Enjoying nutritious and delicious picnic fare amidst the greenery of the park on a sunny day."
+  },
+  {
+    "id": 40,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Beach Volleyball Tournament",
+    "description": "Spiking and diving on the sand in a thrilling beach volleyball tournament, fostering teamwork and sportsmanship."
+  },
+  {
+    "id": 41,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Scenic Mountain Biking",
+    "description": "Exploring rugged terrain and scenic trails on an exhilarating mountain biking adventure."
+  },
+  {
+    "id": 42,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Outdoor Yoga Retreat",
+    "description": "Immersing in yoga practice amidst the serene beauty of nature on a rejuvenating outdoor retreat."
+  },
+  {
+    "id": 43,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Trail Running Adventure",
+    "description": "Exploring rugged trails and challenging terrain on an adventurous trail running excursion."
+  },
+  {
+    "id": 44,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Morning Yoga Routine",
+    "description": "Starting the day with a gentle and invigorating yoga routine, setting a positive tone for the day ahead."
+  },
+  {
+    "id": 45,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Healthy Cooking Workshop",
+    "description": "Learning to prepare nutritious meals with fresh ingredients in a hands-on cooking workshop."
+  },
+  {
+    "id": 46,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Sunset Hike",
+    "description": "Embarking on a scenic hike as the sun sets, witnessing breathtaking views and colors."
+  },
+  {
+    "id": 47,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Group Cycling Class",
+    "description": "Pedaling together in a group cycling class, enjoying a fun and challenging workout."
+  },
+  {
+    "id": 48,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Mindfulness Meditation",
+    "description": "Cultivating inner peace and mindfulness through focused meditation practice."
+  },
+  {
+    "id": 49,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Outdoor CrossFit Workout",
+    "description": "Pushing physical limits with a challenging outdoor CrossFit workout, fueled by determination and camaraderie."
+  },
+  {
+    "id": 50,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Beach Yoga Session",
+    "description": "Connecting with nature and inner self in a tranquil beach yoga session, accompanied by the soothing sound of waves."
+  },
+  {
+    "id": 51,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Group Fitness Bootcamp",
+    "description": "Sweating it out in a high-intensity group fitness bootcamp, challenging both body and mind."
+  },
+  {
+    "id": 52,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Nutrition Workshop",
+    "description": "Gaining valuable insights into healthy eating habits and nutrition principles in an informative workshop."
+  },
+  {
+    "id": 53,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Group Trail Running",
+    "description": "Embarking on an exhilarating group trail running adventure, exploring scenic trails and natural beauty."
+  },
+  {
+    "id": 54,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Beachside Yoga Retreat",
+    "description": "Relaxing and rejuvenating body and mind with yoga practice by the beach, embracing the soothing coastal ambiance."
+  },
+  {
+    "id": 55,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Meditation and Mindfulness Workshop",
+    "description": "Learning techniques for mindfulness and meditation, enhancing overall well-being and mental clarity."
+  },
+  {
+    "id": 56,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Dance Fitness Party",
+    "description": "Grooving to the rhythm and burning calories in a high-energy dance fitness party, filled with fun and excitement."
+  },
+  {
+    "id": 57,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Hiking and Nature Photography",
+    "description": "Capturing stunning landscapes and natural beauty while hiking through scenic trails, combining fitness and creativity."
+  },
+  {
+    "id": 58,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Yoga and Meditation Retreat",
+    "description": "Immersing in yoga practice and meditation sessions on a peaceful retreat, nurturing body, mind, and soul."
+  },
+  {
+    "id": 59,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Group Fitness Challenge",
+    "description": "Participating in friendly fitness challenges with a group, fostering camaraderie and motivation to achieve goals."
+  },
+  {
+    "id": 60,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Healthy Meal Prep Workshop",
+    "description": "Learning efficient meal prep strategies and healthy recipes in a hands-on workshop, promoting nutritious eating habits."
+  },
+  {
+    "id": 61,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Sunrise Yoga Session",
+    "description": "Welcoming the new day with a rejuvenating yoga session as the sun rises, embracing tranquility and renewal."
+  },
+  {
+    "id": 62,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Fitness Bootcamp",
+    "description": "Engaging in a dynamic and challenging fitness bootcamp, pushing limits and achieving new levels of strength and endurance."
+  },
+  {
+    "id": 63,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Wellness Retreat",
+    "description": "Embarking on a holistic wellness retreat, focusing on physical, mental, and emotional well-being through various activities and workshops."
+  },
+  {
+    "id": 64,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Outdoor Adventure Challenge",
+    "description": "Conquering obstacles and embracing adventure in an exhilarating outdoor challenge course, fostering teamwork and resilience."
+  },
+  {
+    "id": 65,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Dance Fitness Workshop",
+    "description": "Grooving to the beat and breaking a sweat in a lively dance fitness workshop, combining cardio and fun choreography."
+  },
+  {
+    "id": 66,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Mindful Walking Meditation",
+    "description": "Practicing mindfulness and awareness with each step in a tranquil walking meditation, connecting with nature and inner self."
+  },
+  {
+    "id": 67,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Group Cycling Adventure",
+    "description": "Exploring scenic routes and picturesque landscapes on a group cycling adventure, enjoying the thrill of the ride and camaraderie."
+  },
+  {
+    "id": 68,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Health and Fitness Seminar",
+    "description": "Gaining valuable insights and knowledge about health and fitness from experts in an informative seminar."
+  },
+  {
+    "id": 69,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Pilates Mat Class",
+    "description": "Building core strength and flexibility in a Pilates mat class, focusing on controlled movements and proper alignment."
+  },
+  {
+    "id": 70,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Nature Yoga Retreat",
+    "description": "Connecting with nature and inner self in a rejuvenating yoga retreat amidst scenic landscapes and tranquil surroundings."
+  },
+  {
+    "id": 71,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "HIIT Workout Session",
+    "description": "Pushing through high-intensity intervals and maximizing calorie burn in a heart-pumping HIIT workout session."
+  },
+  {
+    "id": 72,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Group Zumba Class",
+    "description": "Shaking it off and grooving to Latin beats in a lively and energetic group Zumba class, uplifting spirits and burning calories."
+  },
+  {
+    "id": 73,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Healthy Living Workshop",
+    "description": "Exploring holistic approaches to wellness and sustainable healthy living practices in an interactive workshop."
+  },
+  {
+    "id": 74,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Forest Bathing Experience",
+    "description": "Immersing in the healing power of nature and rejuvenating body and mind with a peaceful forest bathing experience."
+  },
+  {
+    "id": 75,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Group Strength Training",
+    "description": "Building muscle and increasing strength in a group strength training session, utilizing various equipment and techniques."
+  },
+  {
+    "id": 76,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Mindfulness Retreat",
+    "description": "Retreating into mindfulness and self-awareness in a tranquil setting, fostering inner peace and mental clarity."
+  },
+  {
+    "id": 77,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Healthy Cooking Class",
+    "description": "Learning to prepare delicious and nutritious meals in a hands-on healthy cooking class, promoting a balanced lifestyle."
+  },
+  {
+    "id": 78,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Waterfall Hike",
+    "description": "Exploring scenic trails and cascading waterfalls on a refreshing and invigorating hike through nature."
+  },
+  {
+    "id": 79,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Outdoor Yoga Retreat",
+    "description": "Connecting with the elements and embracing serenity in an outdoor yoga retreat, surrounded by natural beauty."
+  },
+  {
+    "id": 80,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Group Circuit Training",
+    "description": "Cranking up the intensity and variety in a group circuit training session, targeting different muscle groups for a full-body workout."
+  },
+  {
+    "id": 81,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Sunset Beach Yoga",
+    "description": "Unwinding and stretching in a serene beach yoga session as the sun sets, embracing tranquility and gratitude."
+  },
+  {
+    "id": 82,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Adventure Trail Run",
+    "description": "Embarking on an adrenaline-pumping adventure trail run, conquering rugged terrain and experiencing the thrill of the outdoors."
+  },
+  {
+    "id": 83,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Nutrition Consultation",
+    "description": "Receiving personalized nutrition guidance and dietary recommendations in a one-on-one consultation with a nutrition expert."
+  },
+  {
+    "id": 84,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Dance Cardio Party",
+    "description": "Shimmying and sweating it out in a high-energy dance cardio party, burning calories while having a blast on the dance floor."
+  },
+  {
+    "id": 85,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Mindful Meditation Retreat",
+    "description": "Immersing in deep meditation and mindfulness practices on a peaceful retreat, finding inner stillness and clarity."
+  },
+  {
+    "id": 86,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Kayaking Adventure",
+    "description": "Paddling through serene waters and exploring hidden coves on an adventurous kayaking excursion, surrounded by breathtaking scenery."
+  },
+  {
+    "id": 87,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Group Mindfulness Session",
+    "description": "Cultivating awareness and presence in a group mindfulness session, practicing techniques for stress reduction and relaxation."
+  },
+  {
+    "id": 88,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Fitness Challenge Bootcamp",
+    "description": "Pushing limits and breaking barriers in a challenging fitness bootcamp, fostering determination and resilience."
+  },
+  {
+    "id": 89,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Yoga Nidra Workshop",
+    "description": "Embarking on a journey of deep relaxation and rejuvenation in a yoga nidra workshop, promoting restful sleep and stress relief."
+  },
+  {
+    "id": 90,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Forest Yoga Retreat",
+    "description": "Connecting with nature and inner self in a tranquil forest yoga retreat, surrounded by towering trees and fresh air."
+  },
+  {
+    "id": 91,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "HIIT Cardio Blast",
+    "description": "Boosting metabolism and torching calories in a high-intensity interval training (HIIT) cardio blast, maximizing fat burn and endurance."
+  },
+  {
+    "id": 92,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Boxing Fitness Class",
+    "description": "Punching, jabbing, and sweating it out in a dynamic boxing fitness class, building strength, agility, and confidence."
+  },
+  {
+    "id": 93,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Outdoor Circuit Training",
+    "description": "Harnessing the power of nature in an outdoor circuit training session, using natural elements for resistance and strength."
+  },
+  {
+    "id": 94,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Beach Volleyball Match",
+    "description": "Spiking, setting, and diving in a thrilling beach volleyball match, enjoying friendly competition and seaside fun."
+  },
+  {
+    "id": 95,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Holistic Wellness Retreat",
+    "description": "Nourishing body, mind, and spirit in a holistic wellness retreat, embracing yoga, meditation, and natural therapies."
+  },
+  {
+    "id": 96,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Group Strength Circuit",
+    "description": "Challenging muscles and improving endurance in a group strength circuit workout, rotating through stations for a total-body challenge."
+  },
+  {
+    "id": 97,
+    "imageUrl": "https://i.ibb.co/mDfDsMx/total-shape-TY-Ce5d2-G-k-unsplash.jpg",
+    "title": "Mindful Nature Walk",
+    "description": "Strolling mindfully through nature's wonders on a peaceful walk, immersing in the beauty and serenity of the natural world."
+  },
+  {
+    "id": 98,
+    "imageUrl": "https://i.ibb.co/tMqqRwq/kaylee-garrett-Gapr-Wy-Iw66o-unsplash.jpg",
+    "title": "Adventure Yoga Expedition",
+    "description": "Embarking on an adventurous yoga expedition, practicing asanas in breathtaking natural settings and embracing the spirit of exploration."
+  },
+  {
+    "id": 99,
+    "imageUrl": "https://i.ibb.co/vwJM1yR/anastase-maragos-Hyv-E5-Si-KMUs-unsplash.jpg",
+    "title": "Trail Running Adventure",
+    "description": "Navigating rugged trails and conquering challenging terrain on a thrilling trail running adventure, experiencing the freedom of the outdoors."
+  },
+  {
+    "id": 100,
+    "imageUrl": "https://i.ibb.co/f9HnxNV/alonso-reyes-0-Hl-I76m4jx-U-unsplash.jpg",
+    "title": "Beachside Sunset Yoga",
+    "description": "Unwinding and stretching on the sandy shores in a serene beachside sunset yoga session, embracing peace, and tranquility."
+  }
+]

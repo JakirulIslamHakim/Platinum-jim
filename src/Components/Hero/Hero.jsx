@@ -9,7 +9,7 @@ import "swiper/css/navigation";
 import './style.css';
 
 // import required modules
-import { Autoplay, Pagination, Navigation } from "swiper/modules";
+import { Autoplay, Navigation } from "swiper/modules";
 
 const Hero = () => {
   return (
