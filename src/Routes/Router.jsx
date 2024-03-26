@@ -7,6 +7,7 @@ import Login from "../Components/Login/Login";
 import Extra from "../Components/Extra/Extra";
 import SingUp from "../Components/SingUp/SingUp";
 import Gallery from "../Pages/Gallery/Gallery";
+import TrainerPage from "../Pages/TrainerPage/TrainerPage";
 
 export const router = createBrowserRouter([
   {
@@ -25,6 +26,10 @@ export const router = createBrowserRouter([
       {
         path: "/gallery",
         element: <Gallery />,
+      },
+      {
+        path: "/trainer",
+        element: <TrainerPage />,
       },
     ],
   },

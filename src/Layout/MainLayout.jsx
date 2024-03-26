@@ -6,7 +6,7 @@ import ContactNumber from "../Components/ContactNumber/ContactNumber";
 
 const MainLayout = () => {
   return (
-    <div >
+    <div className="max-w-[3000px] mx-auto">
       <Navbar />
       {/* FIXED CONTACT NUMBER FOR ALL PAGE */}
       <ContactNumber />
