@@ -11,14 +11,15 @@ const TrainerCard = ({ trainer }) => {
     socialLinks,
     availableTimeSlots,
     rating,
+    _id,
   } = trainer;
 
   return (
     <div className="rounded-lg border-2 border-red-200 shadow-md overflow-hidden">
       <img
-        src={"https://i.ibb.co/hmGjdtS/user.png"}  // NOTE : SET Dynamic image from database
+        src={"https://i.ibb.co/hmGjdtS/user.png"} // NOTE : SET Dynamic image from database
         alt={name}
-        className=" mx-auto h-48 object-cover" 
+        className=" mx-auto h-48 object-cover"
       />
       <div className="p-4  bg-base-200 border-t-2 border-red-200">
         <h3 className="text-xl font-bold mb-2">{name}</h3>
@@ -54,11 +55,13 @@ const TrainerCard = ({ trainer }) => {
             size={26}
             activeColor="#ffd32a"
           />
-          <h2> {rating}</h2>
+          <p> {rating}</p>
         </div>
-        <button className=" btn btn-sm md:btn-md bg-red-400 hover:bg-red-600 text-white font-bold rounded-md mt-4">
-          Know More
-        </button>
+        <Link to={`/trainer/details/${_id}`}>
+          <button className=" btn btn-sm md:btn-md bg-red-400 hover:bg-red-600 text-white font-bold rounded-md mt-4">
+            Know More
+          </button>
+        </Link>
       </div>
     </div>
   );

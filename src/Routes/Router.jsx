@@ -8,6 +8,7 @@ import Extra from "../Components/Extra/Extra";
 import SingUp from "../Components/SingUp/SingUp";
 import Gallery from "../Pages/Gallery/Gallery";
 import TrainerPage from "../Pages/TrainerPage/TrainerPage";
+import TrainerDetails from "../Components/TrainerDetails/TrainerDetails";
 
 export const router = createBrowserRouter([
   {
@@ -31,6 +32,10 @@ export const router = createBrowserRouter([
         path: "/trainer",
         element: <TrainerPage />,
       },
+      {
+        path:'trainer/details/:id',
+        element:<TrainerDetails/>
+      }
     ],
   },
   {
